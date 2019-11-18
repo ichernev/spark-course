@@ -1,0 +1,3 @@
+[submodule "learning-spark"]
+	path = learning-spark
+	url = https://github.com/databricks/learning-spark
